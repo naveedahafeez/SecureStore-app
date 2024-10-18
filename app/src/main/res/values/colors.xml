@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryDark">#7855B7</color> <!-- Darker Green -->
+    <color name="colorAccent">#673AB7</color> <!-- Amber -->
+
+    <!-- Backgrounds and Text Colors -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- Light Grey -->
+    <color name="textColorPrimary">#333333</color> <!-- Dark Grey -->
+    <color name="buttonTextColor">#FFFFFF</color> <!-- White -->
+    <color name="colorPrimary">#FF6200EE</color>
+
+</resources>
+

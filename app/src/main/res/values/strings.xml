@@ -1,0 +1,14 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Tasbeeh Counter</string>
+    <string name="tasbeeh_image_desc" />
+
+    <!-- Tasbeeh Names in Arabic -->
+    <string-array name="tasbeeh_names">
+        <item>سبحان الله</item>
+        <item>الحمد لله</item>
+        <item>الله أكبر</item>
+        <item>لا إله إلا الله</item>
+        <item>استغفر الله</item>
+    </string-array>
+</resources>
